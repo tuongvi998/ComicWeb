@@ -1,0 +1,15 @@
+  .home {
+      width: 100%;
+  }
+  
+  .slide {
+      display: inline-block;
+  }
+  
+  #update {
+      font-family: inherit;
+      color: teal;
+      font-size: 30px;
+      text-align: left;
+      margin-left: 20px;
+  }

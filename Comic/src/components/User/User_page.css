@@ -1,0 +1,16 @@
+#ava {
+    width: 125px;
+    height: 125px;
+    border-radius: 50%;
+}
+
+.content h5,
+h6 {
+    text-align: left;
+}
+
+.content h6 {
+    font-size: medium;
+    font-style: italic;
+    font-weight: 400;
+}

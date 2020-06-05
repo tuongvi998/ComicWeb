@@ -1,0 +1,19 @@
+.container {
+    background-color: #fff;
+}
+
+.cminfo {
+    text-align: left;
+}
+
+#cm_image {
+    width: 100%;
+}
+
+#vi {
+    background-color: #fff;
+}
+
+.read a:hover {
+    color: rgb(161, 49, 49);
+}

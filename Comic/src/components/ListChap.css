@@ -1,0 +1,19 @@
+.list-chap {
+    padding-top: 10px;
+}
+
+.title {
+    margin: 10px;
+}
+
+#tenchuong {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    float: left;
+}
+
+#tenchuong:hover {
+    text-decoration: none;
+    color: rgb(107, 109, 109);
+}

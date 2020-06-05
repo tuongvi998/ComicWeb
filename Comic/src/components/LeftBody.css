@@ -1,0 +1,23 @@
+span {
+    color: #d52222;
+}
+
+.searchform {
+    background-color: #fff;
+}
+
+#search_comic {
+    border: 0.1em solid teal;
+    border-radius: 8px;
+    color: teal;
+}
+
+#check_ {
+    color: teal;
+}
+
+#select {
+    color: teal;
+    border: 1px solid teal;
+    padding: 3px;
+}

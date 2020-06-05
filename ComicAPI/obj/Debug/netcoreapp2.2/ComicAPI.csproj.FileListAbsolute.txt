@@ -1,0 +1,42 @@
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.deps.json
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.runtimeconfig.json
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.runtimeconfig.dev.json
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.dll
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.pdb
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.csprojAssemblyReference.cache
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.csproj.CoreCompileInputs.cache
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.RazorAssemblyInfo.cache
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.RazorAssemblyInfo.cs
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.AssemblyInfoInputs.cache
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.AssemblyInfo.cs
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.RazorTargetAssemblyInfo.cache
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.dll
+D:\Giao Trinh\Nam4\Ki1\GIAO_TIEP_NGUOI_MAY\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.pdb
+C:\Users\nhutt\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.deps.json
+C:\Users\nhutt\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.runtimeconfig.json
+C:\Users\nhutt\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.runtimeconfig.dev.json
+C:\Users\nhutt\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.dll
+C:\Users\nhutt\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.pdb
+C:\Users\nhutt\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.csprojAssemblyReference.cache
+C:\Users\nhutt\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.csproj.CoreCompileInputs.cache
+C:\Users\nhutt\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.RazorAssemblyInfo.cache
+C:\Users\nhutt\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.RazorAssemblyInfo.cs
+C:\Users\nhutt\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.AssemblyInfoInputs.cache
+C:\Users\nhutt\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.AssemblyInfo.cs
+C:\Users\nhutt\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.RazorTargetAssemblyInfo.cache
+C:\Users\nhutt\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.dll
+C:\Users\nhutt\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.pdb
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.deps.json
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.runtimeconfig.json
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.runtimeconfig.dev.json
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.dll
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\bin\Debug\netcoreapp2.2\ComicAPI.pdb
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.csprojAssemblyReference.cache
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.csproj.CoreCompileInputs.cache
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.RazorAssemblyInfo.cache
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.RazorAssemblyInfo.cs
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.AssemblyInfoInputs.cache
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.AssemblyInfo.cs
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.RazorTargetAssemblyInfo.cache
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.dll
+C:\Users\TuongVi\OneDrive\Máy tính\GiaoTiepNguoiMay\Web\AngularJS\ComicAPI\obj\Debug\netcoreapp2.2\ComicAPI.pdb

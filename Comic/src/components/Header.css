@@ -1,0 +1,23 @@
+.inline {
+    position: relative;
+}
+
+.img {
+    width: 125px;
+}
+
+.contai {
+    background-color: #f8f9fa!important;
+}
+
+.cont {
+    margin-top: 0%;
+}
+
+.link {
+    color: brown;
+}
+
+#head {
+    padding: 0;
+}

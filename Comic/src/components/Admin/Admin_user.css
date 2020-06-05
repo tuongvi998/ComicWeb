@@ -1,0 +1,116 @@
+#con {
+    overflow-x: hidden;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 80px;
+}
+
+#wrapper #content-wrapper {
+    overflow-x: hidden;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 80px;
+}
+
+#wrapper #content-wrapper {
+    overflow-x: hidden;
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 80px;
+}
+
+table.dataTable {
+    clear: both;
+    margin-top: 6px !important;
+    margin-bottom: 6px !important;
+    max-width: none !important;
+    border-collapse: separate !important;
+    border-spacing: 0;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+table.table-bordered.dataTable th,
+table.table-bordered.dataTable td {
+    border-left-width: 0;
+}
+
+.table-bordered thead th,
+.table-bordered thead td {
+    border-bottom-width: 2px;
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+
+li {
+    list-style: none;
+    float: left;
+}
+
+i#del {
+    color: red;
+}
+
+li#but {
+    margin-right: 15px;
+}
+
+div.dataTables_paginate ul.pagination {
+    margin: 2px 0;
+    white-space: nowrap;
+    justify-content: flex-end;
+}
+
+#adsearch {
+    width: 200px;
+    height: 35px;
+    border: 1px solid teal;
+    border-right: none;
+}
+
+#adbut {
+    height: 35px;
+    border-radius: 0 25px 25px 0;
+}
+
+.dataTables_info span {
+    color: teal;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.pagination {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: 0.25rem;
+}
+
+div#k {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+i.fas.fa-user-minus {
+    font-weight: 900;
+    color: red;
+}

@@ -1,0 +1,10 @@
+#avatar {
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 50%;
+}
+
+.navbar {
+    width: 100%;
+}

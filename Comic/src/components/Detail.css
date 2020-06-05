@@ -1,0 +1,125 @@
+.comicname {
+    color: steelblue;
+    text-decoration: none;
+}
+
+.comicname:hover {
+    text-decoration: none;
+    color: rgb(87, 84, 84);
+}
+
+.info {
+    text-align: left;
+    color: slategrey;
+    font-family: sans-serif;
+}
+
+.description {
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    padding: 5px 5px 5px 5px;
+}
+
+.status {
+    background-color: rgb(29, 199, 80);
+    border: 1px solid rgb(29, 199, 80);
+    border-radius: 8px;
+    color: #fff;
+    padding: 5px;
+}
+
+.view {
+    margin-bottom: 20px;
+}
+
+.author {
+    color: rgb(43, 42, 42);
+    text-decoration: none;
+}
+
+.author:hover {
+    text-decoration: none;
+    color: rgb(194, 74, 74);
+}
+
+.but-dt {
+    border: 2px solid #8a8a8a;
+    background-color: transparent;
+    text-decoration: none;
+    /* padding: 0.5rem; */
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+    /* border-radius: 3rem; */
+    color: gray;
+    margin: 10px;
+}
+
+.like {
+    margin-left: 5px;
+    color: gray;
+}
+
+.but-like {
+    border: 2px solid #8a8a8a;
+    border-radius: 50%;
+    background-color: transparent;
+    text-decoration: none;
+    /* padding: 0.5rem; */
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+    /* border-radius: 3rem; */
+    color: #8a8a8a;
+    transition: all ease 0.4s;
+}
+
+.but-like:focus {
+    background-color: transparent;
+}
+
+.but-like:focus .fa,
+.but-like:focus span {
+    color: #8a8a8a;
+}
+
+.but-like:hover {
+    border-color: #cc4b37;
+    background-color: transparent;
+}
+
+.but-like:hover .fa {
+    color: #cc4b37;
+}
+
+.liked {
+    background-color: #cc4b37;
+    border-color: #cc4b37;
+    border-radius: 50%;
+}
+
+.liked .fa,
+.liked span {
+    color: #fefefe;
+}
+
+.liked:focus {
+    background-color: #cc4b37;
+}
+
+.liked:focus .fa,
+.liked:focus span {
+    color: #fefefe;
+}
+
+.liked:hover {
+    background-color: #cc4b37;
+    border-color: #cc4b37;
+}
+
+.liked:hover .fa,
+.liked:hover span {
+    color: #fefefe;
+}

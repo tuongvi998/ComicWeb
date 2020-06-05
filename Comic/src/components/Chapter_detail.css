@@ -1,0 +1,62 @@
+.nav-content i {
+    color: #007BFF;
+    margin-top: 2px;
+}
+
+.nav-content {
+    text-align: left;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.nav-content a {
+    color: cadetblue;
+    font-family: sans-serif;
+}
+
+.nav-content .fas {
+    color: inherit;
+}
+
+.nav-content a:hover,
+.fas:hover {
+    text-decoration: none;
+    color: darkcyan;
+}
+
+.nav-content #home {
+    font-weight: bold;
+    color: inherit;
+}
+
+.list-chap a {
+    color: seagreen;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.chapter {
+    color: teal;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(244, 244, 244);
+}
+
+.list-chap #chapname {
+    color: darkgreen;
+    font-family: monospace;
+    font-weight: inherit;
+    font-style: inherit;
+}
+
+.list-chap #chapname:hover {
+    text-decoration: none;
+    color: teal;
+}
+
+#opt {
+    color: seagreen;
+}

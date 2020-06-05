@@ -1,0 +1,19 @@
+.details {
+    float: left;
+}
+
+.container {
+    text-align: center;
+}
+
+.row {
+    display: inline-block;
+}
+
+.title {
+    padding-bottom: 10px;
+}
+#s{
+    width: 200px;
+    height: 260px
+}
